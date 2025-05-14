@@ -63,8 +63,8 @@
       <td width="50%">
         <h3 align="center">CertiPortal - Academic Certificate Generator</h3>
         <div align="center">  
-          <a href="[https://github.com/ajinkyapathak/certiportal-academic-certificates](https://github.com/Ajinkya-Dhavale/Certi-Portal" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkyapathak&repo=certiportal-academic-certificates&theme=react&hide_border=true" />
+          <a href="https://github.com/Ajinkya-Dhavale/Certi-Portal" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajinkya-Dhavale&repo=Certi-Portal&theme=react&hide_border=true" />
           </a>
           <p><strong>Spring Boot, MySQL, HTML, CSS, Bootstrap, JS, Ajax</strong> - Automates academic certificate requests with role-based access.</p>
         </div>
@@ -72,8 +72,8 @@
       <td width="50%">
         <h3 align="center">E-Book Management Website</h3>
         <div align="center">  
-          <a href="[https://github.com/ajinkyapathak/e-book-management](https://github.com/Ajinkya-Dhavale/EBook-Management)" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkyapathak&repo=e-book-management&theme=react&hide_border=true" />
+          <a href="https://github.com/Ajinkya-Dhavale/EBook-Management" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajinkya-Dhavale&repo=EBook-Management&theme=react&hide_border=true" />
           </a>
           <p><strong>Java, MySQL, Bootstrap</strong> - Platform to buy/sell books with Razorpay payment integration.</p>
         </div>
@@ -102,10 +102,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200" />
-</p>
 
 <p align="center">
   <b>Thanks for visiting my GitHub! 😊<br>

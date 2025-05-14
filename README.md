@@ -57,30 +57,26 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">CertiPortal - Academic Certificate Generator</h3>
-        <div align="center">  
-          <a href="https://github.com/Ajinkya-Dhavale/Certi-Portal" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajinkya-Dhavale&repo=Certi-Portal&theme=react&hide_border=true" />
-          </a>
-          <p><strong>Spring Boot, MySQL, HTML, CSS, Bootstrap, JS, Ajax</strong> </p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">E-Book Management Website</h3>
-        <div align="center">  
-          <a href="https://github.com/Ajinkya-Dhavale/EBook-Management" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajinkya-Dhavale&repo=EBook-Management&theme=react&hide_border=true" />
-          </a>
-          <p><strong>Java, MySQL, JSP, Servlet, HTML, CSS, JS, Bootstrap</strong> </p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 CertiPortal - Academic Certificate Generator</h3>
+      <p><strong>Description:</strong> A web-based platform to generate academic certificates with role-based access and request tracking for students and admins.</p>
+      <p><strong>Tech Stack:</strong> Spring Boot, MySQL, HTML, CSS, Bootstrap, JavaScript, Ajax</p>
+      <a href="https://github.com/Ajinkya-Dhavale/Certi-Portal" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 E-Book Management Website</h3>
+      <p><strong>Description:</strong> A complete platform to manage, upload, and download eBooks with a responsive design and user/admin login system.</p>
+      <p><strong>Tech Stack:</strong> Java, JSP, Servlet, MySQL, HTML, CSS, JavaScript, Bootstrap</p>
+      <a href="https://github.com/Ajinkya-Dhavale/EBook-Management" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 

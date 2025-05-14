@@ -7,10 +7,10 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 - 🔭 I’m currently working on **Web-based Projects + ML Project**
 - 🌱 I’m learning **Spring Boot and Micro Services**
-- 💬 Ask me about **React, Express, Java, Spring Boot, Python**
+- 💬 Ask me about **React, Express, Java, Spring Boot, Python, Mysql**
 
 ---
 
@@ -51,6 +51,12 @@
       <br>GitHub
     </td>
   </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+      <br>Java
+    </td>
+  </tr>
 </table>
 
 ---
@@ -62,7 +68,7 @@
     <td width="50%" valign="top">
       <h3>🎓 CertiPortal - Academic Certificate Generator</h3>
       <p><strong>Description:</strong> A web-based platform to generate academic certificates with role-based access and request tracking for students and admins.</p>
-      <p><strong>Tech Stack:</strong> Spring Boot, MySQL, HTML, CSS, Bootstrap, JavaScript, Ajax</p>
+      <p><strong>Tech Stack:</strong> Java, Spring Boot, MySQL, HTML, CSS, Bootstrap, JavaScript, Ajax</p>
       <a href="https://github.com/Ajinkya-Dhavale/Certi-Portal" target="_blank">
         <img src="https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -100,6 +106,5 @@
 ---
 
 <p align="center">
-  <b>Thanks for visiting my GitHub! 😊<br>
-  Feel free to explore, connect, and collaborate. Always learning, always building! 🚀</b>
+  <b>Thanks for visiting my GitHub! 😊<br>🚀</b>
 </p>

@@ -10,14 +10,15 @@
 ## 🧑‍💻 About Me
 - 🔭 I’m currently working on **Web-based Projects + ML Project**
 - 🌱 I’m learning **Spring Boot and Micro Services**
-- 💬 Ask me about **React, Flask, Spring, Python, Java**
+- 💬 Ask me about **React, Express, Java, Spring Boot, Python**
 
 ---
 
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,springboot,javascript,react,nodejs,express,mysql,mongodb,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,mysql,mongodb,git,github" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 </p>
 
 ---
@@ -27,19 +28,19 @@
 <div align="center">
 
 <!-- Project Card 1 -->
-<div style="border: 2px solid #00ff84; border-radius: 15px; width: 300px; padding: 15px; margin: 10px; display: inline-block; vertical-align: top; background-color: #0d1117;">
+<div style="display: inline-block; text-align: center; margin: 10px; width: 320px; background-color: #0d1117; border-radius: 15px; border: 2px solid #00ff84; padding: 15px;">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 10px;" />
-  <h3 align="center" style="color: #00ff84;">Student Performance Predictor</h3>
-  <p align="center" style="color: white;">A Flask + ML project to predict student scores based on study hours using Linear Regression.</p>
-  <p align="center"><a href="https://github.com/ajinkyapathak/student-score-predictor"><img src="https://img.shields.io/badge/Code-GitHub-00ff84?style=for-the-badge&logo=github" /></a></p>
+  <h3 style="color: #00ff84;">Student Performance Predictor</h3>
+  <p style="color: white;">A Flask + ML project to predict student scores based on study hours using Linear Regression.</p>
+  <a href="https://github.com/ajinkyapathak/student-score-predictor"><img src="https://img.shields.io/badge/Code-GitHub-00ff84?style=for-the-badge&logo=github" /></a>
 </div>
 
 <!-- Project Card 2 -->
-<div style="border: 2px solid #00ff84; border-radius: 15px; width: 300px; padding: 15px; margin: 10px; display: inline-block; vertical-align: top; background-color: #0d1117;">
+<div style="display: inline-block; text-align: center; margin: 10px; width: 320px; background-color: #0d1117; border-radius: 15px; border: 2px solid #00ff84; padding: 15px;">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" style="border-radius: 10px;" />
-  <h3 align="center" style="color: #00ff84;">Salon Management System</h3>
-  <p align="center" style="color: white;">A Java-based salon system for appointment scheduling, billing, and employee records.</p>
-  <p align="center"><a href="https://github.com/ajinkyapathak/salon-management-system"><img src="https://img.shields.io/badge/Code-GitHub-00ff84?style=for-the-badge&logo=github" /></a></p>
+  <h3 style="color: #00ff84;">Salon Management System</h3>
+  <p style="color: white;">A Java-based salon system for appointment scheduling, billing, and employee records.</p>
+  <a href="https://github.com/ajinkyapathak/salon-management-system"><img src="https://img.shields.io/badge/Code-GitHub-00ff84?style=for-the-badge&logo=github" /></a>
 </div>
 
 </div>
@@ -49,24 +50,15 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/ajinkya-pathak"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:ajinkyapathak75@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/ajinkyaxd"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.instagram.com/ajinkyaxd"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ajinkya-dhavale-6a620624b"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:ajinkyadhavale9604@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/ajinkyapathak"><img src="https://img.shields.io/badge/-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.instagram.com/ajinkya-dhavale-6060"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajinkyapathak&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ajinkyapathak&theme=radical" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyapathak&layout=compact&theme=radical" alt="langs" />
-</div>
-
----
-
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/3o6ZsYm5pJYk7A2V1G/giphy.gif" width="200" /><br>
+  <b style="font-size: 20px; color: #00ff84;">Thank you for visiting my GitHub profile!</b>
 </p>

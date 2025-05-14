@@ -13,6 +13,7 @@
 - 💬 Ask me about **React, Express, Java, Spring Boot, Python**
 
 ---
+
 ## 🛠️ Skills & Tools
 
 <table align="center">
@@ -60,21 +61,21 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">Student Performance Predictor</h3>
+        <h3 align="center">CertiPortal - Academic Certificate Generator</h3>
         <div align="center">  
-          <a href="https://github.com/ajinkyapathak/student-score-predictor" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkyapathak&repo=student-score-predictor&theme=react&hide_border=true" />
+          <a href="[https://github.com/ajinkyapathak/certiportal-academic-certificates](https://github.com/Ajinkya-Dhavale/Certi-Portal" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkyapathak&repo=certiportal-academic-certificates&theme=react&hide_border=true" />
           </a>
-          <p><strong>Flask, ML, Linear Regression</strong> - Predicts student scores based on study hours</p>
+          <p><strong>Spring Boot, MySQL, HTML, CSS, Bootstrap, JS, Ajax</strong> - Automates academic certificate requests with role-based access.</p>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">Salon Management System</h3>
+        <h3 align="center">E-Book Management Website</h3>
         <div align="center">  
-          <a href="https://github.com/ajinkyapathak/salon-management-system" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkyapathak&repo=salon-management-system&theme=react&hide_border=true" />
+          <a href="[https://github.com/ajinkyapathak/e-book-management](https://github.com/Ajinkya-Dhavale/EBook-Management)" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkyapathak&repo=e-book-management&theme=react&hide_border=true" />
           </a>
-          <p><strong>Java, MySQL</strong> - Appointments, billing & employee record system</p>
+          <p><strong>Java, MySQL, Bootstrap</strong> - Platform to buy/sell books with Razorpay payment integration.</p>
         </div>
       </td>
     </tr>
@@ -102,4 +103,11 @@
 
 ---
 
-<p align="center"> <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200" /> </p> <p align="center"> <b>Thanks for stopping by! Feel free to connect or check out my projects. Always open to learning and collaborating. 🚀</b> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200" />
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my GitHub! 😊<br>
+  Feel free to explore, connect, and collaborate. Always learning, always building! 🚀</b>
+</p>

@@ -66,7 +66,7 @@
           <a href="https://github.com/Ajinkya-Dhavale/Certi-Portal" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajinkya-Dhavale&repo=Certi-Portal&theme=react&hide_border=true" />
           </a>
-          <p><strong>Spring Boot, MySQL, HTML, CSS, Bootstrap, JS, Ajax</strong> - Automates academic certificate requests with role-based access.</p>
+          <p><strong>Spring Boot, MySQL, HTML, CSS, Bootstrap, JS, Ajax</strong> </p>
         </div>
       </td>
       <td width="50%">
@@ -75,7 +75,7 @@
           <a href="https://github.com/Ajinkya-Dhavale/EBook-Management" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajinkya-Dhavale&repo=EBook-Management&theme=react&hide_border=true" />
           </a>
-          <p><strong>Java, MySQL, Bootstrap</strong> - Platform to buy/sell books with Razorpay payment integration.</p>
+          <p><strong>Java, MySQL, JSP, Servlet, HTML, CSS, JS, Bootstrap</strong> </p>
         </div>
       </td>
     </tr>

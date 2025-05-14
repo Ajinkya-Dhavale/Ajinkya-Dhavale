@@ -102,6 +102,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsYm5pJYk7A2V1G/giphy.gif" width="200" /><br>
-  <b style="
+<p align="center"> <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200" /> </p> <p align="center"> <b>Thanks for stopping by! Feel free to connect or check out my projects. Always open to learning and collaborating. 🚀</b> </p>

@@ -1,9 +1,18 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF84&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Innovation+Enthusiast;Code+Artisan;Problem+Solver" alt="Typing SVG" />
-  </a>
-</h1>
+<h1 align="center">Hi 👋, I'm Ajinkya</h1>
+<h3 align="center">👨‍💻 A passionate full-stack developer and Software Developer</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF84&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+coding+and+solving+problems;Always+learning+new+things!" alt="Typing SVG" />
+</p>
+
+---
+
+## 🧑‍💻 About Me
+- 🔭 I’m currently working on **Web-based Projects + ML Project**
+- 🌱 I’m learning **Spring Boot and Micro Services**
+- 💬 Ask me about **React, Express, Java, Spring Boot, Python**
+
+---
 ## 🛠️ Skills & Tools
 
 <table align="center">

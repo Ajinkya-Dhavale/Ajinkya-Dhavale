@@ -27,7 +27,7 @@
       <br>Python
     </td>
    <td align="center" width="100">
-      <img src="[https://techstack-generator.vercel.app/js-icon.svg](https://icons8.com/icon/90519/spring-boot)" alt="Spring Boot" width="65" height="65" />
+      <img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot" width="65" height="65" />
       <br>Spring Boot
     </td>
     <td align="center" width="100">

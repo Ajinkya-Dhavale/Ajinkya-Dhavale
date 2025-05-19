@@ -47,7 +47,7 @@
       <br>MySQL
     </td>
     <td align="center" width="100">
-      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="MongoDB" width="65" height="65" />
+      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="MongoDB" width="65" height="65" />
       <br>MongoDB
     </td>
     <td align="center" width="100">

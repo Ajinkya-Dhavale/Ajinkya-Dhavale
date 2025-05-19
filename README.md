@@ -39,7 +39,7 @@
       <br>React
     </td>
     <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+      <img src="https://img.icons8.com/color/96/nodejs.png" alt="Node.js" width="65" height="65" />
       <br>Node.js
     </td>
     <td align="center" width="100">

@@ -104,5 +104,5 @@
 ---
 
 <p align="center">
-  <b>Thanks for visiting my GitHub! 😊<br>🚀</b>
+  <b>Thanks for visiting my GitHub! 😊🚀</b>
 </p>

@@ -23,6 +23,10 @@
       <br>Java
     </td>
     <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="100">
       <img src="https://techstack-generator.vercel.app/spring-icon.svg" alt="Spring Boot" width="65" height="65" />
       <br>Spring Boot
     </td>

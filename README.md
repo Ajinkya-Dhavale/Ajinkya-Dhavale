@@ -2,7 +2,7 @@
 <h3 align="center">👨‍💻 A passionate full-stack developer and Software Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF84&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+coding+and+solving+problems;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF84&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Code+Artisan+and+solving+problems;Always+learning+new+things!" alt="Typing SVG" />
 </p>
 
 ---

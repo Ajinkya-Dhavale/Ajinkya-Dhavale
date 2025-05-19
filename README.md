@@ -51,12 +51,6 @@
       <br>GitHub
     </td>
   </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-      <br>Java
-    </td>
-  </tr>
 </table>
 
 ---
